@@ -1,4 +1,4 @@
-# Kütüphane Otomasyon
+# Kütüphane Otomasyonu
 
 ## İçerik
 
