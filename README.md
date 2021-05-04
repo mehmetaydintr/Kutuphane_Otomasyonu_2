@@ -8,10 +8,14 @@
 
 ## Kullanılan Teknolojiler
 
-![Image of Eclipse](https://www.pngkit.com/png/detail/223-2231671_eclipse-is-one-of-the-most-popular-and.png "Eclipse")
-![Image of Java](https://yazilimamelesi.files.wordpress.com/2013/03/java_logo.jpg "Java")
-![Image of MySQL](https://dataera.com.tr/wp-content/uploads/2018/07/mysql-logo-1.jpg "MySQL")
-![Image of XAMPP](https://res.cloudinary.com/practicaldev/image/fetch/s--raOOV4rq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/vdsoh7ie716cy3x12b37.png "XAMPP")
+  + Eclipse
+  + Java
+  + MySQL
+  + XAMPP
+
+
+![Image of Eclipse](https://www.kodlamamerkezi.com/wp-content/uploads/2014/08/java-eclipse.jpg)
+![maxresdefault](https://user-images.githubusercontent.com/37263322/117035232-bd2d2f80-ad0c-11eb-9d8b-e9b4d451870c.jpg)
 
 ## Proje Tanımı
 
