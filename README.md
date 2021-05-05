@@ -2,9 +2,9 @@
 
 ## İçerik
 
-1. Kullanılan Teknojiler
-2. Proje Tanımı
-3. Uygulama İçi Görüntüler
+1. [Kullanılan Teknojiler](https://github.com/mehmetaydintr/Kutuphane_Otomasyonu_2#kullan%C4%B1lan-teknolojiler)
+2. [Proje Tanımı](https://github.com/mehmetaydintr/Kutuphane_Otomasyonu_2#proje-tan%C4%B1m%C4%B1)
+3. [Uygulama İçi Görüntüler](https://github.com/mehmetaydintr/Kutuphane_Otomasyonu_2#uygulama-i%CC%87%C3%A7i-g%C3%B6r%C3%BCnt%C3%BCler)
 
 ## Kullanılan Teknolojiler
 
